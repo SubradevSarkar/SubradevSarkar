@@ -29,7 +29,7 @@ My name is Subradev Sarkar. I began my career in web development and have since 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ Fun fact: Web developers have mastered the art of turning caffeine into code.  
 
 
 </td><td valign="top" width="50%">
