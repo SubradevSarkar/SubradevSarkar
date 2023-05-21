@@ -105,7 +105,7 @@ My name is Subradev Sarkar. I began my career in web development and have since 
   - test - everything related to testing
   - chore - updating build tasks, package manager configs, etc
 
-🗄Branching rules:
+🗄 Branching rules:
 - 
   - Main Branch: <b>"main"</b> or <b>"master"</b> This branch should always contain the latest stable version of your code.
   - Feature Branches: <b>"feature/"</b> or <b>"feat/"</b> For example, "feature/authentication" or "feat/add-user-profile".
