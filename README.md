@@ -2,10 +2,8 @@
 <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" align="center" height="" width="799" />
 </div>  
   
-## Hey 👋, I'm Subradev Sarkar!  
+##                                                                                  Hey 👋, I'm Subradev Sarkar!  
   
-<br />
-
 <br />
 
 ## 🌐 Socials:
@@ -30,6 +28,7 @@
 <br />
 
 <br />
+
 ## Git standard Practice 
 📑 Commit rules:
 - 
