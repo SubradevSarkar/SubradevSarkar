@@ -4,6 +4,9 @@
   
 ## Hey 👋, I'm Subradev Sarkar!  
   
+<br />
+
+<br />
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subradev-sarkar-317610165) 
 
@@ -23,4 +26,29 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SubradevSarkar&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br />
+
+<br />
+## Git standard Practice 
+📑 Commit rules:
+- 
+  - feat - a new feature
+  - fix - a bug fix
+  - docs - changes in documentation
+  - style - everything related to styling
+  - refactor - code changes that neither fixes a bug or adds a feat
+  - test - everything related to testing
+  - chore - updating build tasks, package manager configs, etc
+
+🗄 Branching rules:
+- 
+  - Main Branch: <b>"main"</b> or <b>"master"</b> This branch should always contain the latest stable version of your code.
+  - Feature Branches: <b>"feature/"</b> or <b>"feat/"</b> For example, "feature/authentication" or "feat/add-user-profile".
+  - Bug Fix Branches: <b>"bugfix/"</b> or <b>"fix/"</b>   For example, "bugfix/user-authentication" or "fix/display-error-message".
+  - Hotfix Branches:  <b>"hotfix/"</b>  For example, "hotfix/security-patch".
+  - Release Branches:  As you prepare for a release, create a release branch to stabilize the code for deployment. Name these branches with a version number, such as <b>"release/1.0.0"</b>.
+
+<br/>  
+
+
+<br />
