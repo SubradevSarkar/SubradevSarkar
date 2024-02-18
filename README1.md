@@ -89,7 +89,7 @@ My name is Subradev Sarkar. I began my career in web development and have since 
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=subradevsarkar&&style=flat-square)  
+[![](https://visitcount.itsvg.in/api?id=subradevsarkar&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in) 
   
 
 <br/>  
