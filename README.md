@@ -1,4 +1,9 @@
-
+<div align="center">
+<img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" align="center" height="" width="799" />
+</div>  
+  
+## Hey 👋, I'm Subradev Sarkar!  
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subradev-sarkar-317610165) 
 
