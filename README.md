@@ -15,13 +15,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=SubradevSarkar&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SubradevSarkar&theme=radical&hide_border=false)<br/>
 
-<div style="text-align: center;" markdown="1">
+<p style="text-align: center;" markdown="1">
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SubradevSarkar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
-</div>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SubradevSarkar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 
 
